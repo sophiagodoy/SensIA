@@ -57,3 +57,10 @@ A busca preserva treino/validação e não utiliza o teste para selecionar parâ
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - https://code.visualstudio.com/docs/python/environments
 - As referências do método de classificação estão no notebook.
+
+
+## Segunda rodada: Épocas e regularização
+
+Abra `SensIA_Refinamento_Local.ipynb` no mesmo kernel e execute de cima para baixo. O notebook compara 16 configurações de 128 neurônios e a referência de 32 neurônios, cada uma com três sementes (51 ajustes). Seleciona pela média do F1 macro de validação, salva a variação entre sementes e exporta os erros de validação para revisão. Não calcula novas métricas de teste.
+
+Os arquivos ficam em `resultados_refinamento`, em uma nova pasta por execução. O notebook original e os resultados anteriores são preservados.

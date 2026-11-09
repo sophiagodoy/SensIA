@@ -1,0 +1,58 @@
+﻿categoria,classe_prevista,quantidade
+Hobbies & Interests,Entertainment,13
+Education,Lifestyle,12
+Entertainment,Hobbies & Interests,11
+Education,News & Politics,11
+Education,Science & Technology,11
+Lifestyle,Hobbies & Interests,9
+Sports,Entertainment,9
+Hobbies & Interests,Lifestyle,8
+Education,Hobbies & Interests,7
+Lifestyle,Education,7
+Science & Technology,Education,7
+News & Politics,Entertainment,7
+Hobbies & Interests,Sports,6
+Entertainment,News & Politics,6
+Sports,Education,5
+Sports,Lifestyle,5
+News & Politics,Sports,5
+Sports,Hobbies & Interests,5
+Hobbies & Interests,Art & Creativity,5
+Sports,Automotive,5
+News & Politics,Education,5
+Entertainment,Sports,5
+Entertainment,Lifestyle,3
+Entertainment,Education,3
+Art & Creativity,Education,3
+News & Politics,Science & Technology,3
+Sports,News & Politics,3
+Science & Technology,Hobbies & Interests,3
+Art & Creativity,Entertainment,3
+Education,Art & Creativity,3
+Education,Automotive,3
+Hobbies & Interests,News & Politics,3
+Science & Technology,News & Politics,2
+Art & Creativity,Science & Technology,2
+Art & Creativity,News & Politics,2
+Entertainment,Science & Technology,2
+Science & Technology,Lifestyle,2
+Hobbies & Interests,Education,2
+Lifestyle,Sports,2
+Education,Entertainment,2
+Automotive,Sports,1
+Entertainment,Art & Creativity,1
+Education,Sports,1
+Automotive,Science & Technology,1
+Art & Creativity,Hobbies & Interests,1
+Art & Creativity,Lifestyle,1
+Automotive,News & Politics,1
+Hobbies & Interests,Science & Technology,1
+Hobbies & Interests,Automotive,1
+News & Politics,Hobbies & Interests,1
+Lifestyle,Entertainment,1
+Lifestyle,Automotive,1
+Lifestyle,Art & Creativity,1
+Science & Technology,Entertainment,1
+Science & Technology,Automotive,1
+News & Politics,Lifestyle,1
+Sports,Science & Technology,1
