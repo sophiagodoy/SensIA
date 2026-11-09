@@ -22,6 +22,8 @@ Desenvolver uma solução multiagente baseada em inteligência artificial que co
 
 - Contribuir para a promoção do bem-estar, incentivando a autonomia dos usuários e a escolha consciente de conteúdos audiovisuais por meio de informações claras e acessíveis.
 
+## Agentes
+
 | Agente | Função Principal | 
 |--------|---------|
 | Agente 1 - Agente Conversacional  | Responsável por interagir com o usuário, apresentar os resultados das análises das características visuais extraídas, consultar artigos científicos por meio de RAG e fornecer explicações fundamentadas. Também coordena a comunicação com o Agente Recomendador quando receber uma recomendação de um vídeo.  |
