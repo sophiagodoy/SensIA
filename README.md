@@ -28,3 +28,5 @@ Desenvolver uma solução multiagente baseada em inteligência artificial que co
 |--------|---------|
 | Agente 1 - Agente Conversacional  | Responsável por interagir com o usuário, apresentar os resultados das análises das características visuais extraídas, consultar artigos científicos por meio de RAG e fornecer explicações fundamentadas. Também coordena a comunicação com o Agente Recomendador quando receber uma recomendação de um vídeo.  |
 | Agente 2 - Agente Recomendador | Responsável por consultar o dataset de vídeos previamente analisados, identificar conteúdos com temáticas semelhantes e menor intensidade de características visuais e enviar as recomendações ao Agente Conversacional.  | 
+
+(não terminado)
