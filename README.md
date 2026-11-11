@@ -27,6 +27,18 @@ Desenvolver uma solução multiagente baseada em inteligência artificial que co
 | Agente | Função Principal | 
 |--------|---------|
 | Agente 1 - Agente Conversacional  | Responsável por interagir com o usuário, apresentar os resultados das análises das características visuais extraídas, consultar artigos científicos por meio de RAG e fornecer explicações fundamentadas. Também coordena a comunicação com o Agente Recomendador quando receber uma recomendação de um vídeo.  |
-| Agente 2 - Agente Recomendador | Responsável por consultar o dataset de vídeos previamente analisados, identificar conteúdos com temáticas semelhantes e menor intensidade de características visuais e enviar as recomendações ao Agente Conversacional.  | 
+| Agente 2 - Agente Recomendador | Responsável por consultar o dataset de vídeos previamente analisados, identificar conteúdos com temáticas semelhantes e menor intensidade de características visuais e enviar as recomendações ao Agente Conversacional.  |
+
+## Organização do projeto
+O desenvolvimento do SensIA está organizado em diferentes branches, cada um dedicado a uma etapa ou componente do projeto.
+
+| Branch | Descrição |
+|---|---|
+| [Agente Simples (entrega do dia 30/10)](https://github.com/sophiagodoy/SensIA/tree/Entrega-30/10) | Implementação do agente simples (inicial)  para explicação das métricas visuais. |
+| [Dataset](https://github.com/sophiagodoy/SensIA/tree/Dataset) | dataset utilizado no projeto. |
+| [Rede Neural (entrega do dia 13/11)](https://github.com/sophiagodoy/SensIA/tree/rede-neural-13/11) | Implementação da MLP.|
+|  RAG (entrega do dia 13/11) | |
+
+
 
 (não terminado)
