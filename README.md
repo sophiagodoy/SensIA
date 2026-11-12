@@ -24,7 +24,7 @@ A rede neural possui quatro camadas:
 
 | Arquivo | Descrição |
 |---|---|
-| `...` | ... |
-| `...` | ... |
+| `RAG` | Contém os códigos-fonte da implementação do RAG. |
+| `Rede Neural` | Contém os códigos-fonte da implementação da rede neural MLP e a pasta com os embeddings utilizados como dados de entrada do modelo. |
 
 (não terminado!)
