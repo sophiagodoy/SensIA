@@ -3,6 +3,10 @@
 Implementação de soluções de Retrieval-Augmented Generation (RAG) e de uma Rede Neural MLP (Multi-Layer Perceptron) como entregas do 2º Challenge da Residência em IA.
 
 ## Retrieval-Augmented Generation (RAG)
+Responsável por fundamentar as explicações a partir de uma base documental de referência.
+
+### Arquitetura do RAG
+Com base na pergunta do usuário, o RAG consulta informações relevantes na base documental e as utiliza para gerar uma resposta contextualizada, acompanhada de referências aos documentos consultados.
 
 ## Rede Neural
 Foi implementada uma MLP (Multi-Layer Perceptron) utilizando TensorFlow/Keras, com o objetivo de classificar vídeos de acordo com suas respectivas categorias. 
