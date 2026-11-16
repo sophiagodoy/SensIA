@@ -36,8 +36,8 @@ O desenvolvimento do SensIA está organizado em diferentes branches, cada um ded
 |---|---|
 | [Agente Simples (entrega do dia 30/10)](https://github.com/sophiagodoy/SensIA/tree/Entrega-30/10) | Implementação do agente simples (inicial)  para explicação das métricas visuais. |
 | [Dataset](https://github.com/sophiagodoy/SensIA/tree/Dataset) | dataset utilizado no projeto. |
-| [Rede Neural (entrega do dia 13/11)](https://github.com/sophiagodoy/SensIA/tree/rede-neural-13/11) | Implementação da MLP.|
-|  RAG (entrega do dia 13/11) | |
+| [Rede Neural e RAG (entregas do dia 13/11)](https://github.com/sophiagodoy/SensIA/tree/Entrega-13/11/26) | Implementação da MLP e do RAG.|
+|  | |
 
 
 
